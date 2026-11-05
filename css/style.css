@@ -66,3 +66,48 @@ body {
 .text-link:hover {
     color: #555555;
 }
+
+.entry {
+    padding-top: 14px;
+    padding-bottom: 18px;
+    border-top: 1px solid #eeeeee;
+}
+
+.entry:last-child {
+    border-bottom: 1px solid #eeeeee;
+}
+
+.entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.entry-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #000000;
+}
+
+.entry-link {
+    font-size: 0.8rem;
+    color: #666666;
+    text-decoration: none;
+}
+
+.entry-link:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.entry-desc {
+    font-size: 0.88rem;
+    color: #444444;
+    margin-bottom: 8px;
+}
+
+.stack-list {
+    font-size: 0.78rem;
+    color: #777777;
+}

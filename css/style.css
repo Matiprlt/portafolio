@@ -16,3 +16,20 @@ body {
     max-width: 580px;
     margin: 0 auto;
 }
+
+.header {
+    margin-bottom: 48px;
+}
+
+.header h1 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.role {
+    font-size: 0.9rem;
+    color: #666666;
+    margin-top: 2px;
+}

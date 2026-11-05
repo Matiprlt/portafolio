@@ -111,3 +111,17 @@ body {
     font-size: 0.78rem;
     color: #777777;
 }
+
+.tech-stack {
+    list-style: none;
+    font-size: 0.88rem;
+    color: #333333;
+}
+
+.tech-stack li {
+    margin-bottom: 8px;
+}
+
+.tech-stack strong {
+    color: #000000;
+}

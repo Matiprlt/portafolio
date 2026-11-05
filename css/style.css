@@ -33,3 +33,36 @@ body {
     color: #666666;
     margin-top: 2px;
 }
+
+.section {
+    margin-bottom: 44px;
+}
+
+.title-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #888888;
+    margin-bottom: 16px;
+}
+
+.bio-text {
+    font-size: 0.95rem;
+    color: #222222;
+}
+
+.link-wrapper {
+    margin-top: 10px;
+}
+
+.text-link {
+    font-size: 0.85rem;
+    color: #000000;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.text-link:hover {
+    color: #555555;
+}
